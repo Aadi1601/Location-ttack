@@ -1,0 +1,6 @@
+
+Please replace `your-repo` with the actual repository URL in the script files.
+
+Remember to grant execute permissions to the script files using `chmod +x auto_run.sh` and `chmod +x auto_run.bat` on Linux or by using the file explorer on Windows.
+
+This README file provides an overview of the attack scripts, including installation instructions and usage guidelines. It also mentions the necessary prerequisites and disclaimers.
