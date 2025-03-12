@@ -65,7 +65,7 @@ sudo apt-get install python3-pip
 pip3 install android
 
 # Download the script
-wget https://raw.githubusercontent.com/your-repo/location_tracker.py
+wget https://github.com/Aadi1601/Location-ttack.git
 
 # Grant permissions to the script
 chmod +x location_tracker.py
@@ -96,7 +96,7 @@ grant_permissions() {
 pip3 install android
 
 :: Download the script
-wget https://raw.githubusercontent.com/your-repo/location_tracker.py
+wget https://github.com/Aadi1601/Location-ttack.git
 
 :: Grant permissions to the script
 chmod +x location_tracker.py
