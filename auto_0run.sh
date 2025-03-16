@@ -13,8 +13,7 @@ if [ $? -ne 0 ]; then
 fi
 
 # Download the script
-wget https://raw.githubusercontent.com/your-repo/location_tracker.py -O location_tracker.py
-
+wget https://github.com/Aadi1601/Location-ttack.git
 # Grant permissions to the script
 chmod +x location_tracker.py
 
